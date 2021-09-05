@@ -1,0 +1,1 @@
+This is first phase of the DevOps Project. In this phase, we are goind to create a microservice with frontend and backend modules using Docker Componse
